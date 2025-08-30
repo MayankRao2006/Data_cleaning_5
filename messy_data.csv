@@ -1,0 +1,51 @@
+Customer Name,Email,Quantity,Price,Date
+,missing,one,30,2023-01-01
+  alice,charlie@yahoo.com,one,40,2023-01-02
+BOB ,missing,one,NaN,2023-01-03
+,alice@gmail.com, FOUR ,40,2023-01-04
+Charlie,bob@outlook,3,30,2023-01-05
+BOB ,  NaN,3,30,2023-01-06
+BOB ,alice@gmail.com,one,fifty,2023-01-07
+,  NaN,3,NaN,2023-01-08
+Bob,bob@outlook,3,20,2023-01-09
+Charlie,bob@outlook,one,20,2023-01-10
+,alice@gmail.com,3,40,2023-01-11
+Charlie,bob@outlook,,fifty,2023-01-12
+Charlie,missing,two,10,2023-01-13
+BOB ,bob@outlook,two,40,2023-01-14
+  alice,  NaN,one,fifty,2023-01-15
+Charlie,  NaN, FOUR ,NaN,2023-01-16
+NaN,  NaN,one,NaN,2023-01-17
+BOB ,  NaN, FOUR ,NaN,2023-01-18
+Bob,missing,two,NaN,2023-01-19
+  alice,charlie@yahoo.com,one,NaN,2023-01-20
+NaN,alice@gmail.com,5,fifty,2023-01-21
+NaN,  NaN,,fifty,2023-01-22
+Bob,bob@outlook,3,30,2023-01-23
+  alice,  NaN, FOUR ,20,2023-01-24
+BOB ,bob@outlook,5,NaN,2023-01-25
+Alice,bob@outlook,3,10,2023-01-26
+  alice,  NaN,3,fifty,2023-01-27
+Bob,missing,one,10,2023-01-28
+NaN,bob@outlook,3,10,2023-01-29
+BOB ,bob@outlook,,10,2023-01-30
+  alice,  NaN,5,30,2023-01-31
+Alice,bob@outlook,3,fifty,2023-02-01
+Alice,bob@outlook,one,10,2023-02-02
+Charlie,  NaN,,NaN,2023-02-03
+Charlie,  NaN,two,40,2023-02-04
+,alice@gmail.com,5,10,2023-02-05
+Bob,missing,3,30,2023-02-06
+  alice,missing,one,fifty,2023-02-07
+  alice,bob@outlook,two,30,2023-02-08
+,missing,two,10,2023-02-09
+NaN,bob@outlook, FOUR ,fifty,2023-02-10
+NaN,alice@gmail.com,,40,2023-02-11
+,  NaN,3,10,2023-02-12
+NaN,  NaN,one,30,2023-02-13
+Charlie,  NaN, FOUR ,20,2023-02-14
+  alice,missing,,NaN,2023-02-15
+,alice@gmail.com, FOUR ,30,2023-02-16
+  alice,missing,5,fifty,2023-02-17
+Alice,missing,,10,2023-02-18
+Charlie,alice@gmail.com,,NaN,2023-02-19
